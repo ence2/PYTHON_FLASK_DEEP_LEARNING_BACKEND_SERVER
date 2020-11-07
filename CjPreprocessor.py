@@ -221,4 +221,4 @@ def PreprocessingFile(fileName):
 
 if __name__=='__main__':
     # PreprocessingFile("ilbe_reply_target.csv")
-    result = PreprocessString("아이 시발 짜증나네 ㅋㅋㅋ")
+    result = PreprocessString("아이 증말 짜증나네 ㅋㅋㅋ")
